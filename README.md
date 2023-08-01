@@ -1,8 +1,11 @@
 # Hungry Viper 🐍
 
-The goal of this project was to build a modified version of an interactive game called Hungry Viper on the Mbed platform.
+The goal of this project was to build a modified version of an interactive game called Hungry Viper on the mbed platform.
 The game is like the classic Snake game. 
-The objective was to build a handheld Hungry Viper game using the embedded system from Mbed and the hashtable.
+The objective was to build a handheld Hungry Viper game using the embedded system from Sparkfun and the hashtable.
+
+### Hardware Used
+[Sparkfun mbed Kit](https://www.sparkfun.com/products/14415?custom_code=GTmbed)
 
 ### Basic Features
 - Nav-switch moves the Viper
