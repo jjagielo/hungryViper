@@ -1,0 +1,63 @@
+# HUNGRY VIPER GAME FEATURE CHECKLIST
+
+Student Name: Jason Jagielo
+
+## BASIC GAME FUNCTIONALITY (5pts each)
+
+XXX  Nav-switch moves the Viper
+
+XXX  Game over screen when Viper reaches its maximum length or hits something that is not walkable
+
+XXX  The Map must be bigger than the screen (at least 50*50 tiles)
+
+XXX The Viper grows when it eats a chest
+
+XXX  At least 1 boost-up and 1 boost-down Map item
+
+XXX  Status bar shows Viperhead coordinates
+
+XXX  Art includes at least one sprite
+
+XXX  Invincibility button
+
+
+
+## EXTRA FEATURES (5pts each / choose up to 10):
+
+XXX  Game state management: pause/resume button
+
+Additional boost-up/down enabled by Viper interaction with Map item:
+
+	XXX  Sticky joystick
+
+	XXX  An object that could lower speed for the Viper
+
+	____  Magnet that allows the Viper to attract other objects
+
+	____  Objects that give negative effects like speed up or extra length without score
+
+
+XXX  Difficulty modes
+
+XXX  Game start page
+
+____  Random map initialization
+
+XXX  Sound effects
+
+____  Pathway to another map
+
+XXX  Moving objects
+2x
+XXX  8+ sprite objects
+
+XXX  Animation
+
+____  In-game menu
+
+____  Multiple lives and the possibility to lose and start over
+
+____  Save the game
+
+____  Other: (please describe)
+
